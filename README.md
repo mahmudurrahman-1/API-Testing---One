@@ -1,6 +1,6 @@
 ## API Testing Report
 
-#### [Booking][https://restful-booker-api.netlify.app]
+#### [Booking](https://mahmud-restfulbooker.netlify.app/)
 
 ## Method
 
