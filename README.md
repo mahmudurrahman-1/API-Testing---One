@@ -1,7 +1,6 @@
 ## API Testing Report
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ea4f8bbe-844f-4c6a-958a-6067316d9dfc/deploy-status)](https://app.netlify.com/sites/mahmud-restfulbooker/deploys)
 #### [Booking](https://mahmud-restfulbooker.netlify.app/)
-
 ## Method
 
 - POST
